@@ -31,4 +31,4 @@ build/
 .vscode/
 
 ### 환경설정 파일 제외 ###
-application.properties
+application-dev.properties
